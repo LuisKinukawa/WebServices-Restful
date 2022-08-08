@@ -1,0 +1,9 @@
+br\com\fiap\springboot\domain\Produto.class
+br\com\fiap\springboot\controller\ProdutoController.class
+br\com\fiap\springboot\repository\CategoriaRepository.class
+br\com\fiap\springboot\controller\CategoriaController.class
+br\com\fiap\springboot\domain\PontosColeta.class
+br\com\fiap\springboot\resources\ProdutoResource.class
+br\com\fiap\springboot\domain\Categoria.class
+br\com\fiap\springboot\repository\ProdutoRepository.class
+br\com\fiap\springboot\SpringbootApplication.class
